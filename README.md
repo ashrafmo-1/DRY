@@ -2,6 +2,7 @@
 dont repeat your self
 
 ## selects
+-  must use reactHook useEffecct
 ```js
 import { create } from "zustand";
 import axios from "axios";
