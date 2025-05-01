@@ -2,7 +2,7 @@
 dont repeat your self
 
 ## selects
-`
+```js
 import { create } from "zustand";
 import axios from "axios";
 
@@ -41,4 +41,4 @@ const useSelectsStore = create((set) => ({
 }));
 
 export default useSelectsStore;
-`
+
